@@ -1,5 +1,5 @@
 # double-pendulum
-Balacing a double pendulum at the inverted position.
+Using feedback linearization to balance an inverted double pendulum.
 
 
 
