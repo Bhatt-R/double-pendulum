@@ -1,3 +1,3 @@
 # double-pendulum
 Balacing a double pendulum at the inverted position.
-https://www.veed.io/view/aed66f8a-ddae-48f9-aaa5-a584a567c3e7?sharingWidget=true
+![Screencast from 06-20-2022 08 18 30 PM](https://user-images.githubusercontent.com/20744254/174694039-b403ea5b-d286-4d69-9f9a-cfc476347018.gif)
